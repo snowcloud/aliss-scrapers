@@ -1,0 +1,7 @@
+Scrapy
+Beautifulsoup
+
+# MANUAL INSTALL
+# http://soupselect.googlecode.com/svn/trunk/soupselect.py
+# svn checkout http://soupselect.googlecode.com/svn/trunk/
+# mv to libs, add libs to pythonpath
